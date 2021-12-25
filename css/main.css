@@ -889,6 +889,15 @@ input[type='date' i] {
   transition: all 0.4s;
 }
 
+@media screen and (max-width: 768px) {
+  .arrow-slick1,
+  .arrow-slick2,
+  .arrow-slick3 {
+    width: 30px;
+    height: 30px;
+  }
+}
+
 .wrap-slick1:hover .arrow-slick1,
 .wrap-slick2:hover .arrow-slick2,
 .wrap-slick3:hover .arrow-slick3 {
