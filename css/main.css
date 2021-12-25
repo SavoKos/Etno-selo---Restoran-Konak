@@ -898,6 +898,10 @@ input[type='date' i] {
   }
 }
 
+.slika {
+  max-height: 220px;
+}
+
 .wrap-slick1:hover .arrow-slick1,
 .wrap-slick2:hover .arrow-slick2,
 .wrap-slick3:hover .arrow-slick3 {
