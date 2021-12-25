@@ -7366,7 +7366,7 @@
   bottom: 0;
 }
 .tit1 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 90px;
   line-height: 1.1;
@@ -7376,13 +7376,13 @@
   word-spacing: 10px;
 }
 .tit2 {
-  font-family: Courgette-Regular;
+  font-family: Courgette;
   font-size: 30px;
   line-height: 1.2;
   color: #d61c22;
 }
 .tit3 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 50px;
   line-height: 1.2;
@@ -7390,7 +7390,7 @@
   text-transform: uppercase;
 }
 .tit4 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 40px;
   line-height: 1.2;
@@ -7398,7 +7398,7 @@
   text-transform: uppercase;
 }
 .tit5 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 50px;
   line-height: 1.2;
@@ -7408,7 +7408,7 @@
   word-spacing: 8px;
 }
 .tit6 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 50px;
   line-height: 1.2;
@@ -7418,7 +7418,7 @@
   word-spacing: 6px;
 }
 .tit7 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 22px;
   line-height: 1.2;
@@ -7427,7 +7427,7 @@
   letter-spacing: 3px;
 }
 .tit8 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 50px;
   line-height: 1.2;
@@ -7445,7 +7445,7 @@
   letter-spacing: 3px;
 }
 .tit10 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 24px;
   line-height: 1.2;
@@ -7454,13 +7454,13 @@
   letter-spacing: 3px;
 }
 .txt1 {
-  font-family: Courgette-Regular;
+  font-family: Courgette;
   font-size: 60px;
   line-height: 1.1;
   color: #fff;
 }
 .txt2 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 90px;
   line-height: 1.1;
@@ -7469,7 +7469,7 @@
   letter-spacing: 10px;
 }
 .txt3 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.1;
@@ -7477,7 +7477,7 @@
   text-transform: uppercase;
 }
 .txt4 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #222;
@@ -7485,7 +7485,7 @@
   letter-spacing: 1px;
 }
 .txt5 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 22px;
   color: #333;
@@ -7493,7 +7493,7 @@
   letter-spacing: 3px;
 }
 .txt6 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #fff;
@@ -7501,7 +7501,7 @@
   letter-spacing: 1px;
 }
 .txt7 {
-  font-family: Montserrat-Bold;
+  font-family: Montserrat;
   font-weight: 700;
   font-size: 50px;
   color: #ec1d25;
@@ -7510,7 +7510,7 @@
   letter-spacing: 3px;
 }
 .txt8 {
-  font-family: Montserrat-Bold;
+  font-family: Montserrat;
   font-weight: 700;
   font-size: 12px;
   color: #999;
@@ -7518,19 +7518,19 @@
   letter-spacing: 1px;
 }
 .txt9 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 15px;
   color: #555;
 }
 .txt10 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 14px;
   color: #666;
 }
 .txt11 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.1;
@@ -7539,14 +7539,14 @@
   letter-spacing: 1px;
 }
 .txt12 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 18px;
   color: #666;
   line-height: 1.7;
 }
 .txt13 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 18px;
   color: #fff;
@@ -7554,39 +7554,39 @@
   letter-spacing: 2px;
 }
 .txt14 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 13px;
   color: #999;
   line-height: 1.7;
 }
 .txt15 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 13px;
   color: #ec1d25;
   line-height: 1.7;
 }
 .txt16 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #555;
 }
 .txt17 {
-  font-family: NotoSans-Regular;
+  font-family: NotoSans;
   font-size: 14px;
   line-height: 1.7;
   color: #999;
 }
 .txt18 {
-  font-family: NotoSans-Regular;
+  font-family: NotoSans;
   font-size: 14px;
   line-height: 1.7;
   color: #ccc;
 }
 .txt19 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 14px;
   color: #222;
@@ -7594,7 +7594,7 @@
   text-transform: uppercase;
 }
 .txt20 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 18px;
   color: #222;
@@ -7611,7 +7611,7 @@
   letter-spacing: 2px;
 }
 .txt22 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 22px;
   color: #333;
@@ -7619,28 +7619,28 @@
   text-transform: uppercase;
 }
 .txt23 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 13px;
   color: #666;
   line-height: 1.7;
 }
 .txt24 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.7;
   color: #ec1d25;
 }
 .txt25 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.7;
   color: #222;
 }
 .txt26 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 15px;
   color: #333;
@@ -7648,7 +7648,7 @@
   letter-spacing: 2px;
 }
 .txt27 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #222;
@@ -7657,7 +7657,7 @@
   letter-spacing: 1px;
 }
 .txt28 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 12px;
   color: #222;
@@ -7667,7 +7667,7 @@
   word-spacing: 2px;
 }
 .txt29 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #999;
@@ -7676,7 +7676,7 @@
   letter-spacing: 1px;
 }
 .txt30 {
-  font-family: Montserrat-Bold;
+  font-family: Montserrat;
   font-weight: 700;
   font-size: 39px;
   color: #fff;
@@ -7685,20 +7685,20 @@
   letter-spacing: 1px;
 }
 .txt31 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #fff;
 }
 .txt32 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: grey;
   line-height: 1.5;
 }
 .txt33 {
-  font-family: Poppins-Regular;
+  font-family: Poppins;
   font-weight: 500;
   font-size: 22px;
   color: #222;
@@ -7706,7 +7706,7 @@
   letter-spacing: 3px;
 }
 .txt34 {
-  font-family: Poppins-Bold;
+  font-family: Poppins;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.4;
@@ -7714,7 +7714,7 @@
   letter-spacing: 2px;
 }
 .txt35 {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-weight: 400;
   font-size: 12px;
   color: #666;
